@@ -77,8 +77,9 @@ strong {
     float:left;
 }
 
+/*Top left*/
 .logo {
-    font-size: 50px;
+    font-size: 30px;
     font-weight: 700;
     color: $iron;
     display: block;
@@ -120,14 +121,14 @@ strong {
 
 /* =Titles */
 .page-title {
-    margin-top:100px;
-    margin-bottom:125px;
+    margin-top:80px;
+    margin-bottom:80px;
     text-align: center;
 }
 
 .page-title__text {
     font-weight: 700;
-    font-size: 70px;
+    font-size: 40px;
 }
 
 .page-title__subtitle {
