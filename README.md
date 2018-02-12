@@ -58,3 +58,9 @@ permalink: /categories/an-awesome-category/
 # License
 
 The contents of this repository is licensed under [The MIT License.](https://opensource.org/licenses/MIT)
+
+# Customization
+- Customize the header of blog home page: `/_includes/header.html`
+- Customize the font size: `_sass/_default.scss`
+    This file defines the class. For example `logo` class represents top left navigation, defined in header.html
+- Customize the body of the blog home page: `index.html`

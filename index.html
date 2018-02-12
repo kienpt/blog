@@ -4,12 +4,16 @@ title: Blog
 subtitle: 
 ---
 
-<ul class="list-posts">
+<table style="width:100%">
     {% for post in site.posts %}
-        <li class="post-teaser">
-            <a href="{{ post.url | prepend: site.baseurl }}">
+		<tr>
+			<td style="width:25%;border:none;">
+				<i class="icon-clock"></i> {{ post.date | date: "%b %d, %Y" }}
+			</td>
+
+            <td style="border:none;"><a href="{{ post.url | prepend: site.baseurl }}">
                 <span class="post-teaser__title">{{ post.title }}</span>
-            </a>
-        </li>
+            </a></td>
+		</tr>
     {% endfor %}
-</ul>
+</table>
