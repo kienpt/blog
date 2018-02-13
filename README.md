@@ -64,3 +64,4 @@ The contents of this repository is licensed under [The MIT License.](https://ope
 - Customize the font size: `_sass/_default.scss`
     This file defines the class. For example `logo` class represents top left navigation, defined in header.html
 - Customize the body of the blog home page: `index.html`
+- Customize font color: `css/main.scss`
