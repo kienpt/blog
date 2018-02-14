@@ -1,8 +1,10 @@
 <header class="header">
-    <div class="navigation">
-        <a href="http://kienpt.com" class="logo">{{ site.title }}</a>
+    <ul class="navigation">
+        <a href="http://kienpt.com/blog" class="navigation__entry">Home</a>
 
-    </div>
+        <a href="http://kienpt.com" class="navigation__entry">{{ site.title }}</a>
+    </ul>
+
     <ul class="social-links">
         {% if site.author.github %}
             <a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
