@@ -8,7 +8,7 @@ subtitle:
     {% for post in site.posts %}
 		<tr>
 			<td style="width:25%;border:none;">
-				<i class="icon-clock"></i> {{ post.date | date: "%b %d, %Y" }}
+				<span class="post-teaser__date">{{ post.date | date: "%b %d, %Y" }}</span>
 			</td>
 
             <td style="border:none;"><a href="{{ post.url | prepend: site.baseurl }}">

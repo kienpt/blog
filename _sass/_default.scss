@@ -83,9 +83,7 @@ strong {
 }
 
 .navigation__entry {
-    display: inline-block;
     font-weight: 400;
-    margin-left: 0px;
     color: $cloudy;
     font-size: 20px;
 }
@@ -174,8 +172,6 @@ strong {
 
 .post-teaser__date {
     font-size: 16px;
-    float: right;
-    vertical-align: middle;
     color: $cloudy;
 }
 
