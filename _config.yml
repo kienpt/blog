@@ -1,5 +1,6 @@
 # Site settings
 title: About
+blog: Blog
 description: 
 
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
