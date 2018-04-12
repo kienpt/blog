@@ -4,9 +4,9 @@ title: Blog
 subtitle: 
 ---
 
-<table style="width:100%">
+<table style="width:120%">
     {% for post in site.posts %}
-		<tr>
+		<tr class="spaceUnder">
 			<td style="width:25%;border:none;">
 				<span class="post-teaser__date">{{ post.date | date: "%b %d, %Y" }}</span>
 			</td>
@@ -15,5 +15,6 @@ subtitle:
                 <span class="post-teaser__title">{{ post.title }}</span>
             </a></td>
 		</tr>
+
     {% endfor %}
 </table>

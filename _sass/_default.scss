@@ -84,7 +84,7 @@ strong {
 
 .navigation__entry {
     font-weight: 400;
-    color: $iron;
+    color: $fbblue;
     font-size: 20px;
 }
 
@@ -121,7 +121,7 @@ strong {
 .social-links__entry {
     display: inline-block;
     margin-left: 10px;
-	color: $iron
+	color: $fbblue
 }
 
 /* =Titles */
@@ -167,15 +167,19 @@ strong {
 }
 
 .post-teaser__title {
-    font-size: 20px;
+    font-size: 19px;
     color: $iron;
-    font-weight: 500;
+    font-weight: 100;
 }
 
 .post-teaser__date {
-    font-size: 20px;
+    font-size: 19px;
     color: $iron;
-    font-weight: 500;
+    font-weight: 100;
+}
+
+tr.spaceUnder>td {
+  padding-bottom: 0.7em;
 }
 
 .empty-post-list {

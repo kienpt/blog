@@ -17,7 +17,7 @@ __Life cycle__: 5 - 6 years life of span with about 3 productive years. They die
 __Temperature__: 60F - 80F (15C - 26C). This means we should start to plant straberries at the mid of April.  
 __Light__: direct sunlight, 8 hours/day. It is the best to place it outdoor.  
 __Water__: 1-2 inches of water, daily.  
-__Soil__: pH 5.5 - 6.8, well-drained soil, rich in [humus](https://en.wikipedia.org/wiki/Humus). I have no idea how to pick soil with this characteristics though.
+__Soil__: pH 5.5 - 6.8, well-drained soil, rich in [humus](https://en.wikipedia.org/wiki/Humus). I have no idea how to pick soil with this characteristics though.  
 __Fertilizer__:  
 __Root size__: 8 - 10 inches depth. So a perfect pot should have height of 8 - 10 inches.  
 __Straberry type__: Junebearer, day neutral and everbearer. The last two produce less runners and have longer season of harvest but produce smaller berries.  
