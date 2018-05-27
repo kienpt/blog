@@ -30,8 +30,20 @@ __Tips__:
 
 Growing
 -----------
+1 days
 ![Bare root - April 19th]({{ site.baseurl }}/assets/images/2018-04-19-bareroot.jpg)
+
+13 days
 ![Baby plant - May 2nd]({{ site.baseurl }}/assets/images/2018-05-02-baby.jpg)
+
+19 days
 ![Bud - May 08]({{ site.baseurl }}/assets/images/2018-05-08-bud.jpg)
+
+20 days
 ![Bud - May 09]({{ site.baseurl }}/assets/images/2018-05-09-bud.jpg)
+
+31 days
 ![Flower - May 20th]({{ site.baseurl }}/assets/images/2018-05-20-flower.jpg)
+
+37 days
+![Baby fruit - May 26th]({{ site.baseurl }}/assets/images/2018-05-26-babystraberry.jpg)
