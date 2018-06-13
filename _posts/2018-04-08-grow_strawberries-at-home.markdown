@@ -6,7 +6,7 @@ categories: [fruit, garden]
 ---
 [Strawberries again top 2018's 'Dirty Dozen' fruits and veggies](https://www.cnn.com/2018/04/10/health/2018-dirty-dozen-fruits-and-veggies-ewg/index.html). 
 Well, I am growing my own straberry this summer and want to share the process in this post.
-First, I summarize some basic information about straberry plants, then I will update how my plants grow.
+Let start with some basic information about straberry plants, then I will update how my plants grow.
 
 Straberry plant
 ---------------
