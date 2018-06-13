@@ -47,3 +47,9 @@ Growing
 
 37 days
 ![Baby fruit - May 26th]({{ site.baseurl }}/assets/images/2018-05-26-babystraberry.jpg)
+
+49 days
+![Unripe strawberry - May 26th]({{ site.baseurl }}/assets/images/2018-06-08-nearripe.jpg)
+
+52 days
+![ripe strawberry - May 26th]({{ site.baseurl }}/assets/images/2018-06-11-ripe.jpg)

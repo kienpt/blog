@@ -12,7 +12,7 @@ author:
   twitter: kientpham
   # disqus: kienpham
 
-# google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-19640746-1'
 
 # Build settings
 markdown: kramdown
